@@ -11,7 +11,7 @@
 #include <Adafruit_BMP280.h>
 #include <Adafruit_Sensor.h>
 
-#define SEALEVELPRESSURE_HPA (1025.00)
+#define SEALEVELPRESSURE_HPA (1025.00) //Presión atmosferica promedio de Buenos Aires
 
 Adafruit_BMP280 bmp; // I2C
 float temperature;
@@ -22,7 +22,7 @@ float pressure;
 #define conector_2  19
 #define conector_3  5
 
-// ESP32 placa B "receptor"
+// MAC Address del ESP32 placa B "receptor"
 uint8_t broadcastAddress[] = {0xB4, 0xE6, 0x2D, 0xC1, 0x59, 0x0D};
 
 // Variable to add info about peer
