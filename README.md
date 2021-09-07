@@ -9,4 +9,6 @@ Lo he probado en terreno y en efecto al alejarme del "emisor" el valor de RSSI s
 
 Este código contiene partes obtenidas del foro de ESP32 de Espressif copiadas y pegadas, basadas en la idea de https://www.esp32.com/viewtopic.php?t=13889 y modificadas parcialmente.
 
+https://www.speedcheck.org/wiki/rssi/
+
 Espero que mi códgio sea entendible...
