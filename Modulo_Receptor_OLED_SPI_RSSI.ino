@@ -3,6 +3,15 @@
   Proyecto de emisor y receptor para tres entradas lógicas (para contacto seco) en emisor y tres salidas lógicas de estado en receptor
   Usando protocolo ESP NOW de Espressif
   MODULO RECEPTOR con intento de ver el RSSI del paquete recibido. Creo...
+  
+  Si esta información te resulta útil e interesante, invitame un cafecito!!!
+  
+
+  Desde fuera de Argentina en:
+  
+
+  If you found this information useful and interesting, buy me a cafecito!!!
+  
 *********/
 
 
