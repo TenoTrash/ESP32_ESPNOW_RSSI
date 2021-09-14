@@ -12,3 +12,12 @@ Este código contiene partes obtenidas del foro de ESP32 de Espressif copiadas y
 https://www.speedcheck.org/wiki/rssi/
 
 Espero que mi códgio sea entendible...
+
+Si esta información te resulta útil e interesante, invitame un cafecito!!!
+
+
+Desde fuera de Argentina en:
+
+
+If you found this information useful and interesting, buy me a cafecito!!!
+
