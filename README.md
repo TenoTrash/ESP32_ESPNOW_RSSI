@@ -21,3 +21,7 @@ https://www.buymeacoffee.com/marceferra
 
 If you found this information useful and interesting, buy me a cafecito!!!
 https://www.buymeacoffee.com/marceferra
+
+We Accept Monero!!!
+
+![imagen](https://user-images.githubusercontent.com/38758218/139856657-890ddc7a-ca4e-463b-a98d-ac9fe8733cae.png)
