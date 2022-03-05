@@ -1,5 +1,5 @@
 /*********
-  Marcelo Ferrarotti 2021
+  Marce Ferra 2021
   Proyecto de emisor y receptor para tres entradas lógicas (para contacto seco) en emisor y tres salidas lógicas de estado en receptor
   Usando protocolo ESP NOW de Espressif
   MODULO RECEPTOR con intento de ver el RSSI del paquete recibido. Creo...
