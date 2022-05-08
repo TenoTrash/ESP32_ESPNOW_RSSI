@@ -188,6 +188,6 @@ void Titulo() {
   display.setTextSize(2);
   display.setTextColor(SSD1306_WHITE, 0);
   display.setCursor(0, 0);
-  display.println("Ferrarotti");
+  display.println("Marce Ferra");
   display.display();
 }
