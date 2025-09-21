@@ -10,12 +10,3 @@ Lo he probado en terreno y en efecto al alejarme del "emisor" el valor de RSSI s
 Este código contiene partes obtenidas del foro de ESP32 de Espressif copiadas y pegadas, basadas en la idea de https://www.esp32.com/viewtopic.php?t=13889 y modificadas parcialmente.
 
 Espero que mi códgio sea entendible...
-
-Si esta información te resulta útil e interesante, invitame un cafecito!!!
-https://cafecito.app/marce_ferra
-
-Desde fuera de Argentina en:
-https://www.buymeacoffee.com/marceferra
-
-If you found this information useful and interesting, buy me a cafecito!!!
-https://www.buymeacoffee.com/marceferra
