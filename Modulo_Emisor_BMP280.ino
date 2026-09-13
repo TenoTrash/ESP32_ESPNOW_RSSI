@@ -4,13 +4,10 @@
   Usando protocolo ESP NOW de Espressif
   MODULO EMISOR con BMP280 por I2C
   Si esta información te resulta útil e interesante, invitame un cafecito!!!
-  
 
   Desde fuera de Argentina en:
-  
 
   If you found this information useful and interesting, buy me a cafecito!!!
-  
 *********/
 
 #include <esp_now.h>
